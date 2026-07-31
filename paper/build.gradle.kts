@@ -2,6 +2,7 @@ plugins {
     project.java
     project.paper
     project.aotcache
+    project.lombok
 }
 
 group = "io.github.username.template"
