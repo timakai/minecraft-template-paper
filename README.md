@@ -31,7 +31,7 @@ Insert your branding in the following places:
 
 [PaperMC](https://github.com/PaperMC) for the [Paper](https://github.com/PaperMC/Paper) server software.\
 [jpenilla](https://github.com/jpenilla) for [resource-factory](https://github.com/jpenilla/resource-factory)
-and [run-task](https://github.com/jpenilla/run-tas).\
+and [run-task](https://github.com/jpenilla/run-task).\
 [radoslaw-panuszewski](https://github.com/radoslaw-panuszewski)
 for [typesafe-conventions](https://github.com/radoslaw-panuszewski/typesafe-conventions-gradle-plugin).
 
